@@ -1,2 +1,3 @@
-# csharp-comments-api
-A API that handles comments written in C# 
+# Comments API
+
+CommentAPI is a C# Web API designed to handle all aspects of comment functionality. It supports creating, retrieving, updating, and deleting comments, as well as handling nested replies, voting mechanisms, and user interactions. Built with ASP.NET Core, this API was created as a optional challenge to the following [Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-comments-section-iG1RugEG9) challenge .
